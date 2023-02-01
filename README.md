@@ -7,9 +7,9 @@ In _International Conference on Learning Representations_ (**ICLR**), 2023.
 ## __Table of Contents__
 1. [Overview](#overview)
 1. [Datasets](#datasets)
-1. [UOSR Evaluation](#evaluation)
-1. [UOSR Training](#training)
-1. [Few-shot UOSR](#few-shot uosr)
+1. [UOSR Evaluation](#UOSR Evaluation)
+1. [UOSR Training](#UOSR Training)
+1. [Few-shot UOSR](#Few-shot UOSR)
 1. [Citation](#citation)
 
 
