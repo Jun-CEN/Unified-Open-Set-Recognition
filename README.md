@@ -1,7 +1,7 @@
 # **Towards UOSR (Unified Open-set Recognition)**
 
 This is the codebase of: "[The Devil is in the Wrongly-classified Samples: Towards Unified Open-set Recognition](https://openreview.net/forum?id=xLr0I_xYGAs)",  
-[Jun Cen](cen-jun.com), Di Luan, Shiwei Zhang, Yixuan Pei, Yingya Zhang, Deli Zhao, Shaojie Shen, Qifeng Chen.  
+[Jun Cen](https://cen-jun.com), Di Luan, Shiwei Zhang, Yixuan Pei, Yingya Zhang, Deli Zhao, Shaojie Shen, Qifeng Chen.  
 In _International Conference on Learning Representations_ (**ICLR**), 2023.
 
 ## __Table of Contents__
